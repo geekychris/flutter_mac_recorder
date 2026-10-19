@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Flutter Mac Recorder logo" width="180">
+</p>
+
 # mac_recorder
 
 A new Flutter project.
